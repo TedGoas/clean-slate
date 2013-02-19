@@ -1,0 +1,14 @@
+h1. Clean Slate HTML
+
+h2. What is it?
+
+*It is a basic starter HTML file*. It is intentionally light and omits everything that happens outside of HTML. It is performance-friendly, accessible, and unassuming of HTML content.
+
+It provides only the basics so authors can add their own stuff without having to rip out any unused markup.
+
+h2. References and Building Blocks
+ * Web Accessibility Checklist from a11yproject: http://a11yproject.com/checklist.html
+ * Front-end performance for web designers and front-end developers by Harry Roberts: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+ * HTML5 Boilerplate: https://github.com/h5bp/html5-boilerplate
+ * SEO considerations for Web Designers by Yoast: http://yoast.com/seo-paul-boag/
+

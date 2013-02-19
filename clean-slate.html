@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="en" class="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <!-- 	
+    Prefetch DNS for external assets (CDN-hosted libraries + plugins, font-embedding, social widgets, etc).
+    http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+  -->
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  <link rel="dns-prefetch" href="//ajax.googleapis.com">
+  <link rel="dns-prefetch" href="//use.typekit.net">
+  
+  <title>Document Title</title>
+  <meta name="description" content="">
+  <link rel="canonical" href="">
+  <link rel="author" href=" -- URL of website, social media profile, etc. -- ">
+  
+  <!-- http://relogo.org/ -->
+	<link rel="logo" type="image/svg" href="http://yourdomain.com/logo.svg">
+  
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  
+  <!-- CSS at the top so the page knows how to render. -->
+  <link rel="stylesheet" href="/css.css">
+</head>
+<body>
+	
+  <!-- ARIA Role Attributes : http://a11yproject.com/checklist.html -->
+  <header role="banner">
+  </header>
+  
+  <nav role="navigation">
+  </nav>
+
+	<section role="main">
+  </section>
+  
+  <aside role="complementary">
+  </aside>
+  
+  <footer role="contentinfo">
+  </footer>
+  
+  <!-- JS at the bottom so it doesn't block the HTML/CSS rendering first. -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="/js/your-js.js"></script>
+  
+  <!--
+  	Analytics can be placed before other <script> tags if you'd like it to fire first
+  	Google Analytics: change UA-XXXXX-X to be your site's ID.
+  -->
+	<script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+  
+</body>
+</html>
