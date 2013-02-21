@@ -2,9 +2,9 @@ h1. Clean Slate HTML
 
 h2. What is it?
 
-*It is a basic starter HTML file*. It is intentionally light and omits everything that happens outside of HTML. It is performance-friendly, accessible, and unassuming of HTML content.
+*Clean Slate is a basic starter HTML file.* It is intentionally light and omits everything outside of HTML file. It's goal is to be performance-friendly and accessible.
 
-It provides only the basics so authors can add their own stuff without having to rip out any unused markup.
+Clean Slate does not assume any HTML tags and provides only the basics. Authors can add their own stuff without ripping out any unnecessary markup.
 
 h2. References and Building Blocks
  * Web Accessibility Checklist from a11yproject: http://a11yproject.com/checklist.html
@@ -12,3 +12,6 @@ h2. References and Building Blocks
  * HTML5 Boilerplate: https://github.com/h5bp/html5-boilerplate
  * SEO considerations for Web Designers by Yoast: http://yoast.com/seo-paul-boag/
 
+h3. Download, Fork, Commit.
+
+If you think you can make this better, please Download, Fork, & Commit. I'd love your see your ideas and make this as solid as can be.
