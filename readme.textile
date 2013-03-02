@@ -1,17 +1,17 @@
-h1. Clean Slate HTML
+# Clean Slate HTML
 
-h2. What is it?
+## What is it?
 
-*Clean Slate is a basic starter HTML file.* It is intentionally light and omits everything outside of HTML file. It's goal is to be performance-friendly and accessible.
+**Clean Slate is a basic starter HTML file** that provides a small number of essential tags for web projects. It's intentionally light and includes only what happens inside the HTML file.
 
-Clean Slate does not assume any HTML tags and provides only the basics. Authors can add their own stuff without ripping out any unnecessary markup.
+Clean Slate's goal is to start development without having to rip out any unnecessary markup.
 
-h2. References and Building Blocks
- * Web Accessibility Checklist from a11yproject: http://a11yproject.com/checklist.html
- * Front-end performance for web designers and front-end developers by Harry Roberts: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
- * HTML5 Boilerplate: https://github.com/h5bp/html5-boilerplate
- * SEO considerations for Web Designers by Yoast: http://yoast.com/seo-paul-boag/
+## References and Building Blocks
+* Document head structure and META tags from [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+* ARIA Role Attributes from [a11yproject](http://a11yproject.com/checklist.html)
+* Prefetch DNS tags from [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+* Author META and canonical tags from [SEO considerations for Web Designers](http://yoast.com/seo-paul-boag/)
 
-h3. Download, Fork, Commit.
+### Download, Fork, Commit.
 
 If you think you can make this better, please Download, Fork, & Commit. I'd love your see your ideas and make this as solid as can be.
