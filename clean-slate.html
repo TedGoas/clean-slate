@@ -36,15 +36,15 @@
   </footer>
   
   <!--
-  	JS at the bottom so it doesn't block the HTML/CSS rendering first.
-    Try out async: The script is downloaded asynchronously while the rest of the page continues to get parsed. The script is guaranteed to be executed as soon as the download is complete.
+  	JS at the bottom so it doesn't block the CSS rendering first.
+    Try out async: The script is downloaded asynchronously while the rest of the page continues to get parsed. The script is guaranteed to be executed as soon as the download is complete. (http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
   -->
   <script async src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script async src="/js/your-js.js"></script>
   
   <!--
   	Analytics can be placed before other <script> tags if you'd like it to fire first
-  	Google Analytics: change UA-XXXXX-X to be your site's ID.
+  	Google Analytics: change UA-XXXXX-X to be the site's ID.
   -->
 	<script>
       var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
