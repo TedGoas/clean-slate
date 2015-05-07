@@ -11,7 +11,8 @@ Clean Slate's goal is to start development without having to rip out any unneces
 * ARIA Role Attributes from [a11yproject](http://a11yproject.com/checklist.html)
 * Prefetch DNS tags from [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 * Author META and canonical tags from [SEO considerations for Web Designers](http://yoast.com/seo-paul-boag/)
-* Try out async in script tags from [Browser Diet](http://browserdiet.com/#async)
+* Try out `async` in script tags from [Browser Diet](http://browserdiet.com/#async)
+* `ansyc` and `defer` attributes from [Growing with the Web](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 
 ### Download, Fork, Commit.
 
